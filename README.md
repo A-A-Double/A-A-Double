@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A-A-Double
-- 👀 I’m interested in blockchain tech, Web3, Dapps, NFts and IoT!!
-- 🌱 I’m currently learning UX Design, Google Project Manager and Consumer NeuroScience/NeuroMarketing
+- 👀 I’m interested in blockchain tech, Web3, Dapps, NFTs and IoT!!
+- 🌱 I’m currently learning UI Design, Google Project Manager and Consumer NeuroScience/NeuroMarketing
 - 💞️ I’m looking to collaborate on Dapp, Web3 projects, Metaverses and Music
 - 📫 How to reach me @ hiphopshot.nft@gmail.com  or Twitter @shothiphop
 
